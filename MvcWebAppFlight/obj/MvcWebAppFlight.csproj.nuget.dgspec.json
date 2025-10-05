@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\dotnet\\azure\\MvcWebAppFlight\\MvcWebAppFlight\\MvcWebAppFlight.csproj": {}
+    "C:\\projects\\dotnet\\dotnetflight2\\MvcWebAppFlight\\MvcWebAppFlight.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\dotnet\\azure\\MvcWebAppFlight\\MvcWebAppFlight\\MvcWebAppFlight.csproj": {
+    "C:\\projects\\dotnet\\dotnetflight2\\MvcWebAppFlight\\MvcWebAppFlight.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\dotnet\\azure\\MvcWebAppFlight\\MvcWebAppFlight\\MvcWebAppFlight.csproj",
+        "projectUniqueName": "C:\\projects\\dotnet\\dotnetflight2\\MvcWebAppFlight\\MvcWebAppFlight.csproj",
         "projectName": "MvcWebAppFlight",
-        "projectPath": "C:\\Projects\\dotnet\\azure\\MvcWebAppFlight\\MvcWebAppFlight\\MvcWebAppFlight.csproj",
-        "packagesPath": "C:\\Users\\rgbho\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\dotnet\\azure\\MvcWebAppFlight\\MvcWebAppFlight\\obj\\",
+        "projectPath": "C:\\projects\\dotnet\\dotnetflight2\\MvcWebAppFlight\\MvcWebAppFlight.csproj",
+        "packagesPath": "C:\\Users\\rupesh\\.nuget\\packages\\",
+        "outputPath": "C:\\projects\\dotnet\\dotnetflight2\\MvcWebAppFlight\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\rgbho\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\rupesh\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
